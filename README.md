@@ -20,16 +20,16 @@ This program was written over three years when I was a Junior in High school. I 
 
 ### Splashscreen
 
-![alt text](https://ibb.co/KK8rgwr)
+![Alt text](./Images/Splashscreen.png?raw=true "Title")
 
 ### Main Menu
 
-![alt text](https://ibb.co/vLqzxRg)
+![Alt text](./Images/Main.png?raw=true "Title")
 
 ### Game
 
-![alt text](https://ibb.co/w60TWtm)
+![Alt text](./Images/Game.png?raw=true "Title")
 
 ### Artifical Intelligence
 
-![alt text](https://ibb.co/wyM6FFP)
+![Alt text](./Images/AI.png?raw=true "Title")
